@@ -1,7 +1,6 @@
 <h1 align="center">Hi I'm Jacopo</h1>
 <p align="center">
-Junior developer from Italy<br>
-Furry trash, loves C#.<br><br>
+Junior developer from Italy<br><br>
 Currently working under IBM<br><br>
 </p>
 
