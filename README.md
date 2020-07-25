@@ -24,13 +24,15 @@ Currently working under IBM<br><br>
 
 ---
 
+#### Developed and currently maintaining:
+
 <div>
 <h3 align="center">
 <a href="https://github.com/JacopoWolf/StackInjector">StackInjector</a>
 </h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/JacopoWolf/StackInjector/master/logo/StackInjector_logo.svg" alt="StackInjector" width="42" /><br>
-Net Standard 2.1, easy-to-use dependency injection framework<br><br>
+Easy-to-use dependency injection framework for .Net Standard 2.1<br><br>
 <img src="https://img.shields.io/github/license/jacopowolf/stackinjector" />
 <img src="https://img.shields.io/nuget/dt/StackInjector?logo=nuget" />
 <img src="https://img.shields.io/badge/made%20with-%E2%99%A5-FF69B4"/>
