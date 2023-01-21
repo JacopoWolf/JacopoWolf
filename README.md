@@ -6,7 +6,7 @@ src="https://img.shields.io/badge/%2ENET-expert-%23239120?style=for-the-badge&lo
 <img alt="Python" 
 src="https://img.shields.io/badge/python-very_good-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB"/>
 <img alt="Java" 
-src="https://img.shields.io/badge/java-good-%23FFFFFF?style=for-the-badge&logo=openjdk&logoColor=%23FFFFFF"/>
+src="https://img.shields.io/badge/java-ok-%23FFFFFF?style=for-the-badge&logo=openjdk&logoColor=%23FFFFFF"/>
 <br>
 <img alt="C++" 
 src="https://img.shields.io/badge/-c++-%2300599C?style=flat-square&logo=c%2B%2B"/>
@@ -51,6 +51,8 @@ src="https://img.shields.io/badge/Windows-%230078D6?&logo=windows&logoColor=whit
 - Learning ![rust](https://img.shields.io/badge/rust-%23000000?style=flat-square&logo=rust)
 - Game development
 - Work
+
+Feel free to reach me about my projects here on GitHub!
 
 
 <!--
