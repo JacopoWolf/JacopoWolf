@@ -3,7 +3,7 @@
 # Hi, I'm Jacopo :it:
 software consultant by day, open source developer by night
 
-![C#](https://img.shields.io/badge/_-.NET-239120?style=for-the-badge&logo=c%20sharp&logoColor=white")
+![C#](https://img.shields.io/badge/_-.NET-512bd4?style=for-the-badge&logo=c%20sharp&logoColor=white")
 ![Python](https://img.shields.io/badge/_-python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br/>
 ![C++](https://img.shields.io/badge/_-c++-00599C?style=flat&logo=c%2B%2B)
@@ -32,11 +32,12 @@ software consultant by day, open source developer by night
 
 ![SQLite](https://img.shields.io/badge/sqlite-ivory?&logo=sqlite&logoColor=07405e)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-ivory?&logo=microsoft-sql-server&logoColor=CC2927)
+![Redis](https://img.shields.io/badge/redis-ivory?&logo=redis&logoColor=dc382d)
 
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?&logo=ubuntu&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-%2335BF5C?&logo=manjaro&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%230078D6?&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?&logo=manjaro&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_10-0078D6?&logo=windows&logoColor=white)
   
 </div>
 
