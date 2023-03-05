@@ -1,76 +1,45 @@
-<h2 align="center">Hi, I'm Jacopo</h2>
+<div align="center">
+  
+# Hi, I'm Jacopo :it:
+software consultant by day, open source developer by night
 
-<p align="center">
-  <img alt="C#" 
-     src="https://img.shields.io/badge/%2ENET-expert-%23239120?style=for-the-badge&logo=c%20sharp&logoColor=%23239120"/>
-  <img alt="Python" 
-       src="https://img.shields.io/badge/python-very_good-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB"/>
-  <img alt="Java" 
-       src="https://img.shields.io/badge/java-ok-%23FFFFFF?style=for-the-badge&logo=openjdk&logoColor=%23FFFFFF"/>
-  <br/>
-  <img alt="C++" 
-     src="https://img.shields.io/badge/-c++-%2300599C?style=flat-square&logo=c%2B%2B"/>
-  <img alt="Rust" 
-     src="https://img.shields.io/badge/rust-%23000000?style=flat-square&logo=rust"/>
-  <br/><br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img alt="stats" 
-       src="https://github-readme-stats.vercel.app/api?username=jacopowolf&theme=gruvbox" />
-  <br/>
-  <img alt="langs"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacopoWolf&theme=gruvbox&hide=java&langs_count=4" />
-  </a>
-<p>
-
-
-<p align="center">
-<img alt="HTML5" 
-     src="https://img.shields.io/badge/-html5-gray?logo=html5&logoColor=%23E34F26"/>
-<img alt="CSS3" 
-     src="https://img.shields.io/badge/-css3-gray?logo=css3&logoColor=%231572B6"/>
-<img alt="PHP" 
-     src="https://img.shields.io/badge/-php-gray?logo=php&logoColor=%23777BB4"/>
-<img alt="Bootstrap" 
-     src="https://img.shields.io/badge/-bootstrap-gray?logo=bootstrap&logoColor=%237952B3"/>
+![C#](https://img.shields.io/badge/_-.NET-239120?style=for-the-badge&logo=c%20sharp&logoColor=white")
+![Python](https://img.shields.io/badge/_-python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br/>
-<img alt="Javascript" 
-     src="https://img.shields.io/badge/javascript-gray?&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Typescript" 
-src="https://img.shields.io/badge/typescript-gray?&logo=typescript&logocolor=%233178C6"/>
-<img alt="jQuery" 
-     src="https://img.shields.io/badge/jquery-gray?&logo=jquery&logoColor=%230769AD"/>
-<br/>
-<img alt="SQLite" 
-     src="https://img.shields.io/badge/sqlite-%2336454F?&logo=sqlite&logoColor=%2307405e"/>
-<img alt="Spring Boot" 
-     src="https://img.shields.io/badge/spring_boot-%2336454F?&logo=spring&logoColor=%236DB33F"/>
-<img alt="Markdown" 
-     src="https://img.shields.io/badge/markdown-%2336454F?&logo=markdown&logoColor=%23000000"/>
-<br/><br/>
-<img alt="Manjaro" 
-     src="https://img.shields.io/badge/Manjaro-%2335BF5C?&logo=manjaro&logoColor=white"/>
-<img alt="Ubuntu" 
-     src="https://img.shields.io/badge/Ubuntu-%23E95420?&logo=ubuntu&logoColor=white"/>
-<img alt="Windows" 
-     src="https://img.shields.io/badge/Windows-%230078D6?&logo=windows&logoColor=white"/>
-</p>
+![C++](https://img.shields.io/badge/_-c++-00599C?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/_-java-white?style=flat&logo=openjdk&logoColor=black)
+![Rust](https://img.shields.io/badge/_-rust-F46623?style=flat&logo=rust)
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+
+![stats](https://github-readme-stats.vercel.app/api?username=jacopowolf&theme=gruvbox)
+</a>
+
+---
+  
+![HTML5](https://img.shields.io/badge/-HTML5-gray?logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-gray?logo=css3&logoColor=1572B6)
+<br>
+![PHP](https://img.shields.io/badge/-php-gray?logo=php&logoColor=777BB4)
+![Javascript](https://img.shields.io/badge/javascript-gray?&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/typescript-gray?&logo=typescript&logocolor=3178C6)
+![Markdown](https://img.shields.io/badge/markdown-gray?&logo=markdown)
+<br>
+![Bootstrap](https://img.shields.io/badge/-bootstrap-36454F?logo=bootstrap&logoColor=7952B3)
+![jQuery](https://img.shields.io/badge/jquery-36454F?&logo=jquery&logoColor=0769AD)
+![Spring Boot](https://img.shields.io/badge/spring_boot-36454F?&logo=spring)
+
+![SQLite](https://img.shields.io/badge/sqlite-ivory?&logo=sqlite&logoColor=07405e)
+![SQL Server](https://img.shields.io/badge/SQL_Server-ivory?&logo=microsoft-sql-server&logoColor=CC2927)
+
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?&logo=ubuntu&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-%2335BF5C?&logo=manjaro&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%230078D6?&logo=windows&logoColor=white)
+  
+</div>
+
+---
 
 Feel free to reach me about my projects here on GitHub!
-
-
-<!--
-**JacopoWolf/JacopoWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
