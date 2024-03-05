@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Jacopo :it:
-software consultant by day, open source developer by night
+professional by day, open source & weirdo by night
 
 ![C#](https://img.shields.io/badge/_-.NET-512bd4?style=for-the-badge&logo=csharp&logoColor=white")
 ![Rust](https://img.shields.io/badge/_-rust-F46623?style=for-the-badge&logo=rust)
@@ -12,10 +12,13 @@ software consultant by day, open source developer by night
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
-![stats](https://github-readme-stats.vercel.app/api?username=jacopowolf&theme=gruvbox)
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=jacopowolf&theme=gruvbox) -->
+
 </a>
 
 ---
+
+I do embedded and webdev! I prefer embedded and desktop, tho
 
 ![HTML5](https://img.shields.io/badge/-HTML5-gray?logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-gray?logo=css3&logoColor=1572B6)
